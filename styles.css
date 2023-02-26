@@ -1,0 +1,22 @@
+* {
+    background-color: pink;
+}
+
+h1 {
+    color: darkblue;
+    background-color: antiquewhite;
+    text-align: right;
+}
+
+.baking {
+    font-size: 30px;
+}
+
+.cooking {
+    font-size: 45px;
+}
+
+.korean {
+    background-color: greenyellow;
+    color: black;
+}
