@@ -1,0 +1,28 @@
+* {
+    background-color: antiquewhite;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.header {
+    background-color: rgb(107, 87, 65);
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.title {
+    font-weight: 800;
+    font-style: italic;
+}
+
+.intro {
+    font-weight: 400;
+}
+
+.ingredients {
+    font-weight: 300;
+}
